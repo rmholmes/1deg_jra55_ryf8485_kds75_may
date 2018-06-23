@@ -130,6 +130,7 @@
 &ocean_density_nml
     neutral_density_theta = .true.
     neutral_density_potrho = .false.
+    nrho_face_bin = .true.
     eos_linear = .false.
     eos_preteos10 = .true.
     layer_nk = 74
@@ -200,7 +201,6 @@
     barotropic_split = 80
     cmip_units = .true.
     debug = .false.
-    dt_ocean = 5400
     io_layout = 4, 3
     layout = 16, 15
     surface_height_split = 1

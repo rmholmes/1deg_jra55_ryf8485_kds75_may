@@ -23,7 +23,7 @@ submodels:
 
     - name: ocean
       model: mom
-      exe: fms_ACCESS-OM_3f196ae8.x
+      exe: fms_ACCESS-OM_721863e9.x
       input:  
               - /g/data1/ua8/MOM/initial_conditions/WOA/10_KDS75
               - /g/data1/ua8/MOM/grids/10/topog/KDS75
