@@ -43,7 +43,7 @@ platform:
 # Misc
 runlog: True
 stacksize: unlimited
-collate_walltime: 1:00:00
+collate_walltime: 6:00:00
 collate_queue: express
 collate_ncpus: 1
 collate_mem: 8GB
